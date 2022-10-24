@@ -33,4 +33,4 @@ z_tech_exam ---> get_characters.py
 # How to run in noteboke
 if using an external notebook import main function in juypter notebook and run main function after generating requirments.txt from `poetry export --without-hashes --format=requirements.txt > requirements.txt`
 
-if using the provide notebook run `poetry run jupyter notebook` and then run main.ipynb 
+if using the provide notebook run `poetry run jupyter notebook` and then run marvel.ipynb 
