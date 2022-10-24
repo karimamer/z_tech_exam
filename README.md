@@ -15,6 +15,7 @@ z_tech_exam ---> get_characters.py
 ```
 # Dependencies
  1 - install [poetry](https://python-poetry.org/)
+ 
  2 - runt the follwing command `poetry install`
 
  # fomating and standerds 
