@@ -22,7 +22,8 @@ z_tech_exam ---> get_characters.py
 
 # How to run 
  1 - install [poetry](https://python-poetry.org/)
- 2 - run the following command `poetry run python z_tech_exam/main.py `
+ 
+ 2 - run the following command `poetry run python z_tech_exam/main.py`
 
 # How to run in noteboke
 import main function in juypter notebook and run main function
